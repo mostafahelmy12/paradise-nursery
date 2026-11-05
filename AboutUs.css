@@ -1,0 +1,16 @@
+.about-us-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 24px 28px;
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 12px;
+  color: #1f3d2b;
+  text-align: left;
+  line-height: 1.6;
+}
+
+.about-us-title {
+  margin-top: 0;
+  color: #2e7d32;
+  text-align: center;
+}
